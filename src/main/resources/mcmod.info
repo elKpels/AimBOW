@@ -5,7 +5,7 @@
   "description": "A mod to visualize arrow trajectories and center the camera on nearest player",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://github.com/elKpels/AimBOW",
   "updateUrl": "",
   "authorList": ["elKpels"],
   "credits": "My imagination and the Energy and Transformation class, we love u Luis Catañeda",
