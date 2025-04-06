@@ -1,4 +1,4 @@
-# AimBow 🎯
+# AimBow {2.1}🎯
 
 **SergreSoftware - AimBow** es un mod para Minecraft 1.8.9 que visualiza la trayectoria de las flechas y centra la cámara automáticamente en el jugador más cercano, facilitando la puntería con arco.
 

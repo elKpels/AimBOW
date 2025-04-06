@@ -25,7 +25,7 @@ import java.util.List;
 public class AimBow {
     public static final String MODID = "aimbow";
     public static final String NAME = "AimBow";
-    public static final String VERSION = "2.0";
+    public static final String VERSION = "2.1";
 
     @Mod.Instance
     public static AimBow instance;
