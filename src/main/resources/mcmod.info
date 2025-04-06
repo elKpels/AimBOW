@@ -1,0 +1,16 @@
+[
+{
+  "modid": "aimbow",
+  "name": "SergreSoftware - AimBow",
+  "description": "A mod to visualize arrow trajectories and center the camera on nearest player",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["elKpels"],
+  "credits": "My imagination and the Energy and Transformation class, we love u Luis Catañeda",
+  "logoFile": "assets/aimbow/textures/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

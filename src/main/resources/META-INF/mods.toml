@@ -1,0 +1,9 @@
+[mod]
+modId="aimbow"
+version="2.0"
+displayName="AimBow"
+description="A mod to visualize arrow trajectories and center camera on nearest player"
+[dependencies]
+[dependencies.forge]
+modLoader="javafml"
+loaderVersion="[11.15.1.2318,)"
